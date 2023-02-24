@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<success>Always</success>
+		<xpath>/Defs/ThingDef[defName="Apparel_Tuque" or
+			defName="Apparel_CowboyHat" or
+			defName="Apparel_TribalHeaddress" or
+			defName="Apparel_GasMask" or
+			defName="Apparel_Parka" or
+			defName="Apparel_Duster" or
+			defName="Apparel_Jacket" or
+			defName="Apparel_TribalA" or
+			defName="Apparel_Pants" or
+			defName="Apparel_BasicShirt" or
+			defName="Apparel_CollarShirt"]/apparel/tags/li/..</xpath>
+		<value>
+			<li>AnimalALL</li>
+			<li>AnimalCompatible</li>
+			<li>AnimalALLInvisible</li>
+		</value>
+	</Operation>
+</Patch>

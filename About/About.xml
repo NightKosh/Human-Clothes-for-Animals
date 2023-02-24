@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Human Clothes for Animals</name>
+  <author>NightKosh</author>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  <packageId>NightKosh.AnimalGear.HumanClothes</packageId>
+  <description>Using the Animal Gear framework, this mod allows you to dress your pets in some human clothes.
+	</description>
+  <modDependencies>
+    <li>
+      <packageId>Dylan.AnimalGear</packageId>
+      <displayName>Animal Gear</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1541438907</steamWorkshopUrl>
+      <downloadUrl>steam://url/CommunityFilePage/1541438907</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Dylan.AnimalGear</li>
+  </loadAfter>
+</ModMetaData>
