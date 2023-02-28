@@ -5,6 +5,9 @@
 		<xpath>/Defs/ThingDef[defName="Apparel_Tuque" or
 			defName="Apparel_CowboyHat" or
 			defName="Apparel_TribalHeaddress" or
+			defName="Apparel_Tuque" or
+			defName="Apparel_WarVeil" or
+			defName="Apparel_ClothMask" or
 			defName="Apparel_GasMask" or
 			defName="Apparel_Parka" or
 			defName="Apparel_Duster" or
