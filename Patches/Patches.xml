@@ -15,7 +15,8 @@
 			defName="Apparel_TribalA" or
 			defName="Apparel_Pants" or
 			defName="Apparel_BasicShirt" or
-			defName="Apparel_CollarShirt"]/apparel/tags/li/..</xpath>
+			defName="Apparel_CollarShirt" or
+			defName="Apparel_ShieldBelt"]/apparel/tags/li/..</xpath>
 		<value>
 			<li>AnimalALL</li>
 			<li>AnimalCompatible</li>
