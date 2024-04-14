@@ -4,6 +4,7 @@
   <author>NightKosh</author>
   <supportedVersions>
     <li>1.4</li>
+    <li>1.5</li>
   </supportedVersions>
   <packageId>NightKosh.AnimalGear.HumanClothes</packageId>
   <description>Using the Animal Gear framework, this mod allows you to dress your pets in some human clothes.
